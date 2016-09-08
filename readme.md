@@ -16,3 +16,5 @@ Please do not use and 3rd party Javascript to do this. (jQuery is allow but it w
 * After the top navigation, it is an image slider where it will auto rotate at an interval of 8 seconds to the next image. At the bottom of the image slider, it is the pagination indicator, clicking on the indicator will scroll to the respective image.
 
 When the test is done, please zip up all your files and email me the link of the zip file using any 3rd party file sharing services(E.g: drop box, google drive)
+
+[Download the zip package](https://github.com/MirumSG/front-end-coding-test/archive/basic-coding.zip)
