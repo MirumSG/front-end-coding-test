@@ -26,7 +26,7 @@ Below are the JS that are allowed:
 * Email subscription need not be working, just JS email validation will do.
 
 Please also take note on the best practice and files optimisation as well when building this.
-
+This is not testing how fast you can complete it but more
 
 _When the is done, please zip up all your files and email me the link of the zip file using any file sharing services(E.g: drop box, google drive)_
 
