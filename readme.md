@@ -1,7 +1,7 @@
 # Instructions to candidates
 
-Using the assets and web style guide, build this homepage within a 1 week.
-Use the provided style guide HTML found in `flow/index.html` to build the homepage.
+Using the assets and web style guide found in the zip package below, build this homepage within a 1 week.
+Use the provided style guide HTML found in `flow/index.html`.
 
 Below are the JS that are allowed:
 
