@@ -6,7 +6,7 @@ Use the provided style guide html found in `flow/index.html` to build the homepa
 Below are the JS that are allowed:
 
 * jQuery Core library only (Excluding all jQuery plugin scripts)
-* AngularJS
+* AngularJS (1.x/2.x)
 * ReactJS
 
 
@@ -28,6 +28,6 @@ Below are the JS that are allowed:
 Please also take note on the best practise and files optimisation as well when building this.
 
 
-When the is done, please zip up all your files and email me the link of the zip file using any 3rd party file sharing services(E.g: drop box, google drive)
+_When the is done, please zip up all your files and email me the link of the zip file using any file sharing services(E.g: drop box, google drive)_
 
 [Download the styleguide and assets zip package here](https://github.com/MirumSG/front-end-coding-test/files/675172/flow-styleguide-assets.zip)
