@@ -1,7 +1,7 @@
 # Instructions to candidates
 
-Using the assets and web style guide, build this homepage out within a 1 week.
-Use the provided style guide html found in `flow/index.html` to build the homepage.
+Using the assets and web style guide, build this homepage within a 1 week.
+Use the provided style guide HTML found in `flow/index.html` to build the homepage.
 
 Below are the JS that are allowed:
 
@@ -22,12 +22,12 @@ Below are the JS that are allowed:
 ---
 
 ### Functionality
-* At "How It Works" section, there is a carousel slider which will scroll three iterms at a click.
+* At "How It Works" section, there is a carousel slider which will scroll three items at a click.
 * Email subscription need not be working, just JS email validation will do.
 
-Please also take note on the best practise and files optimisation as well when building this.
+Please also take note on the best practice and files optimisation as well when building this.
 
 
 _When the is done, please zip up all your files and email me the link of the zip file using any file sharing services(E.g: drop box, google drive)_
 
-[Download the styleguide and assets zip package here](https://github.com/MirumSG/front-end-coding-test/files/675172/flow-styleguide-assets.zip)
+[Download the style guide and assets zip package here](https://github.com/MirumSG/front-end-coding-test/files/675172/flow-styleguide-assets.zip)
